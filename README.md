@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="250" src="[https://i.pinimg.com/originals/ed/e2/07/ede207095a48f0b2ccc60fe9916fbb4e.jpg](https://media.discordapp.net/attachments/635625973764849684/1210970263580311582/EOS_planets_Artemis.png?ex=65f5b971&is=65e34471&hm=a22a49e0e9f8a4d11fcfa6b21e37024078497937d0334d04fdebf9f7c736d16b&=&format=webp&quality=lossless)"  />
+  <img height="250" src="https://i.pinimg.com/originals/ed/e2/07/ede207095a48f0b2ccc60fe9916fbb4e.jpg"  />
 </div>
 
 ###
