@@ -87,6 +87,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
   <img width="12" />
   <img src="https://vitest.dev/logo.svg" height="40" alt="vitest logo"  />
+  <img width="12" />
+  <img src="https://testing-library.com/img/octopus-64x64.png" height="40" alt="react-testing-library logo"  />
 </div>
 
 ###
