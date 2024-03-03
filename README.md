@@ -41,7 +41,7 @@
 
 ###
 
-<h3 align="left">🛠 Backend  tools</h3>
+<h3 align="left">⚙️ Backend  tools</h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ###
 
-<h3 align="left">🛠 Other tools</h3>
+<h3 align="left">📦 Other tools</h3>
 
 ###
 
@@ -77,7 +77,7 @@
 
 ###
 
-<h3 align="left">🛠 Testing  tools</h3>
+<h3 align="left">🧪 Testing  tools</h3>
 
 ###
 
