@@ -91,6 +91,8 @@
   <img src="https://vitest.dev/logo.svg" height="40" alt="vitest logo"  />
   <img width="12" />
   <img src="https://testing-library.com/img/octopus-64x64.png" height="40" alt="react-testing-library logo"  />
+  <img width="12" />
+  <img src="https://static-00.iconduck.com/assets.00/file-type-stylelint-icon-2048x1955-24f75v0z.png" height="40" alt="styleint logo"  />
 </div>
 
 ###
