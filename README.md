@@ -9,7 +9,7 @@
 
 ###
 
-<p align="left">I'm Artemy Catalysto<br><br>- 🔭 I’m free agent<br>- 📚 I'm currently learning fullstack development<br>- ⚡ In my free time I also design layouts and develop bots</p>
+<p align="left">I'm Artemy Catalysto<br><br>- 🔭 I’m free agent<br>- 📚 I'm currently learning fullstack development<br>- ⚡ In my free time I also design layouts and develop on Rust🦀</p>
 
 ###
 
