@@ -67,6 +67,8 @@
   <img src="https://vitejs.dev/logo.svg" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
+  <img width="12" />
+  <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="40" alt="tauri logo"  />
 </div>
 
 ###
@@ -83,8 +85,6 @@
   <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" height="40" alt="nestjs logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/socketio/socketio-original.svg" height="40" alt="socketio logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="40" alt="tauri logo"  />
 </div>
 
 ###
