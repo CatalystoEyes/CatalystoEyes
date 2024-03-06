@@ -52,6 +52,8 @@
 ###
 
 <div align="left">
+  <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="40" alt="tauri logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" height="40" alt="graphql logo"  />
@@ -67,8 +69,6 @@
   <img src="https://vitejs.dev/logo.svg" height="40" alt="vite logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yarn/yarn-original.svg" height="40" alt="yarn logo"  />
-  <img width="12" />
-  <img src="https://cdn.worldvectorlogo.com/logos/tauri-1.svg" height="40" alt="tauri logo"  />
 </div>
 
 ###
