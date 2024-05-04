@@ -71,20 +71,6 @@
 
 ###
 
-<h3 align="left">⚙️ Backend  tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
-  <img width="12" />
-  <img src="https://static-00.iconduck.com/assets.00/nestjs-icon-512x510-9nvpcyc3.png" height="40" alt="nestjs logo"  />
-</div>
-
-###
-
 <h3 align="left">🧪 Testing  tools</h3>
 
 ###
