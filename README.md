@@ -14,7 +14,7 @@ I'm Artemy Catalysto
 - 🔭 I’m free agent
 - 📚 I'm currently learning Vue
 - ⚡ In my free time I also design layouts and solve leetcode problems
-- [You can follow me in my Telegram channel](https://t.me/pogromistich)
+- You can follow me in my [Telegram channel](https://t.me/pogromistich)
 
 ###
 
