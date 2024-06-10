@@ -9,7 +9,12 @@
 
 ###
 
-<p align="left">I'm Artemy Catalysto<br><br>- 🔭 I’m free agent<br>- 📚 I'm currently learning Vue<br>- ⚡ In my free time I also design layouts and solve leetcode problems<br>- [You can follow me in my Telegram channel](https://t.me/pogromistich)</p>
+I'm Artemy Catalysto
+
+- 🔭 I’m free agent
+- 📚 I'm currently learning Vue
+- ⚡ In my free time I also design layouts and solve leetcode problems
+- [You can follow me in my Telegram channel](https://t.me/pogromistich)
 
 ###
 
