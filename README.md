@@ -12,7 +12,7 @@
 I'm Artemy Catalysto
 
 - 🔭 I’m free agent
-- 📚 I'm currently learning DevOps
+- 📚 I'm currently learning Data Science
 - ⚡ In my free time I also practice in Kaggle and solve leetcode problems
 
 <h3 align="left">🔥   My Stats :</h3>
