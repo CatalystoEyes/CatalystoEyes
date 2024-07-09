@@ -43,6 +43,8 @@ I'm Artemy Catalysto
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" height="30" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" height="40" alt="sass logo"  />
+  <img width="12" />
+  <img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg](https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.png)" height="40" alt="webpack logo"  />
 </div>
 
 ###
