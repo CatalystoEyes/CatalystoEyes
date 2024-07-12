@@ -34,8 +34,6 @@ I'm Artemy Catalysto
   <img width="12" />
   <img src="https://astro.js.org/astro.png" height="40" alt="astrojs logo"  />
   <img width="12" />
-  <img src="https://pinia.vuejs.org/logo.svg" height="40" alt="pinia logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" height="30" alt="tailwindcss logo"  />
@@ -44,15 +42,3 @@ I'm Artemy Catalysto
   <img width="12" />
   <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/webpack-icon.png" height="40" alt="webpack logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=CatalystoEyes&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
